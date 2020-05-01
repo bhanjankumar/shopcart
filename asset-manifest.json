@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/shopcart/static/css/main.d1b05096.chunk.css",
-    "main.js": "/shopcart/static/js/main.b40cc9ef.chunk.js",
-    "main.js.map": "/shopcart/static/js/main.b40cc9ef.chunk.js.map",
+    "main.css": "/shopcart/static/css/main.a5b49e78.chunk.css",
+    "main.js": "/shopcart/static/js/main.834942a4.chunk.js",
+    "main.js.map": "/shopcart/static/js/main.834942a4.chunk.js.map",
     "runtime-main.js": "/shopcart/static/js/runtime-main.9e6abd2b.js",
     "runtime-main.js.map": "/shopcart/static/js/runtime-main.9e6abd2b.js.map",
-    "static/js/2.821a2da1.chunk.js": "/shopcart/static/js/2.821a2da1.chunk.js",
-    "static/js/2.821a2da1.chunk.js.map": "/shopcart/static/js/2.821a2da1.chunk.js.map",
+    "static/css/2.d42e62a9.chunk.css": "/shopcart/static/css/2.d42e62a9.chunk.css",
+    "static/js/2.9facd72c.chunk.js": "/shopcart/static/js/2.9facd72c.chunk.js",
+    "static/js/2.9facd72c.chunk.js.map": "/shopcart/static/js/2.9facd72c.chunk.js.map",
     "index.html": "/shopcart/index.html",
-    "precache-manifest.07f7788ecaab9fa76f622b075dde7417.js": "/shopcart/precache-manifest.07f7788ecaab9fa76f622b075dde7417.js",
+    "precache-manifest.384d634279507fbb01c56d26d8bd210d.js": "/shopcart/precache-manifest.384d634279507fbb01c56d26d8bd210d.js",
     "service-worker.js": "/shopcart/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/shopcart/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.821a2da1.chunk.js.LICENSE.txt": "/shopcart/static/js/2.821a2da1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/shopcart/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d42e62a9.chunk.css.map": "/shopcart/static/css/2.d42e62a9.chunk.css.map",
+    "static/css/main.a5b49e78.chunk.css.map": "/shopcart/static/css/main.a5b49e78.chunk.css.map",
+    "static/js/2.9facd72c.chunk.js.LICENSE.txt": "/shopcart/static/js/2.9facd72c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shopcart/static/media/logo.5d5d9eef.svg",
+    "static/media/styles.css": "/shopcart/static/media/verdana.ba34b303.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.9e6abd2b.js",
-    "static/js/2.821a2da1.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b40cc9ef.chunk.js"
+    "static/css/2.d42e62a9.chunk.css",
+    "static/js/2.9facd72c.chunk.js",
+    "static/css/main.a5b49e78.chunk.css",
+    "static/js/main.834942a4.chunk.js"
   ]
 }
